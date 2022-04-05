@@ -1,0 +1,16 @@
+{
+    "name": "com.barelyastudio.tagsandlayersgenerator",
+    "version": "1.0.1",
+    "displayName": "Tags and Layers Generator",
+    "description": "Generates constant values for tags and layers",
+    "unity": "2020.3",
+    "author": {
+        "name": "mfragger"
+    },
+    "keywords": [
+        "tags",
+        "layers",
+        "generator",
+        "constants"
+    ]
+}
