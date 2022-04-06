@@ -1,4 +1,4 @@
-# TagsAndLayersGenerator
+# Tags And Layers Generator
 A unity script that generates constant fields of tags and layers in a unity project
 
 ## Install
