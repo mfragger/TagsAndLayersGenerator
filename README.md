@@ -4,7 +4,7 @@ A unity script that generates constant fields of tags and layers in a unity proj
 ## Install
 Go to ``Package Manager`` -> ``Add Package from git URL``
 Paste the following
-```https://github.com/BarelyAStudio/TagsAndLayersGenerator.git```
+```https://github.com/mfragger/TagsAndLayersGenerator.git```
 
 ## Sample Generated Code
 ```cs
